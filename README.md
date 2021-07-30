@@ -10,8 +10,6 @@
 - 💬 Ask me about ... Anything
 - ⚡ Fun fact: I speak 2 languages ( English, Spanish )
 
-
-### Talk with me, I am kinda awesome:
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://twitter.com/alvaro__barrera" target="blank"
