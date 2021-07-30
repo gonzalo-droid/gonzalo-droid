@@ -22,27 +22,27 @@
       height="30"
       width="40"
   /></a>
-  <a href="https://www.linkedin.com/in/alvaro-barrera/" target="blank"
+  <a href="https://www.linkedin.com/in/gonzalo-lopez-2050/" target="blank"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/22064237dce9d9052582c108ace3c161b646dfd9/src/images/icons/Social/linked-in-alt.svg"
-      alt="https://www.linkedin.com/in/alvaro-barrera/"
+      alt="https://www.linkedin.com/in/gonzalo-lopez-2050/"
       height="30"
       width="40"
   /></a>
-  <a href="https://www.facebook.com/alvaro.barrera300/" target="blank"
+  <a href="https://www.facebook.com/gonzalo.lopezguerrero.5/" target="blank"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/22064237dce9d9052582c108ace3c161b646dfd9/src/images/icons/Social/facebook.svg"
-      alt="https://www.facebook.com/alvaro.barrera300/"
+      alt="https://www.facebook.com/gonzalo.lopezguerrero.5/"
       height="30"
       width="40"
   /></a>
-  <a href="https://www.instagram.com/alvaro__barrera/" target="blank"
+  <a href="https://www.instagram.com/gonzalo_code/" target="blank"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/22064237dce9d9052582c108ace3c161b646dfd9/src/images/icons/Social/instagram.svg"
-      alt="https://www.instagram.com/alvaro__barrera/"
+      alt="https://www.instagram.com/gonzalo_code/"
       height="30"
       width="40"
   /></a>
