@@ -3,10 +3,10 @@
  <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
 
 
-## I'm a Wife, Mother, Developer, Creator, and Mentor!!
+## I'm a Developer!!
 - ✍ You can find my projects here [portfolio]
 - 🔭 I’m currently working on my first book.
-- 🌱 I’m currently learning React Native and Azure
+- 🌱 I’m currently learning Flutter and Kotlin
 - 👯 I’m looking to collaborate on open source
 - 💬 Ask me about ... Anything
 - ⚡ Fun fact: I speak 2 languages ( English, Spanish )
@@ -53,8 +53,8 @@
 
 </details>
 
-[website]: https://holistic-developer.com/
-[youtube]: https://www.youtube.com/channel/UCD6bHzIZCJJcJD6QHGUIyrw
-[instagram]: https://www.instagram.com/holistic_developer/
-[linkedin]: https://linkedin.com/in/annaarsentieva
-[portfolio]: https://arsentieva.github.io/profile/
+-- [website]: https://holistic-developer.com/
+-- [youtube]: https://www.youtube.com/channel/UCD6bHzIZCJJcJD6QHGUIyrw
+[instagram]: https://www.instagram.com/gonzalo_code/
+[linkedin]: https://www.linkedin.com/in/gonzalo-lopez-2050/
+-- [portfolio]: https://arsentieva.github.io/profile/
