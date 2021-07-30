@@ -52,9 +52,10 @@
 <img align="left" alt="Anna's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arsentieva" />
 
 </details>
-
--- [website]: https://holistic-developer.com/
--- [youtube]: https://www.youtube.com/channel/UCD6bHzIZCJJcJD6QHGUIyrw
+<!--
+[website]: https://holistic-developer.com/
+[youtube]: https://www.youtube.com/channel/UCD6bHzIZCJJcJD6QHGUIyrw
+-->
 [instagram]: https://www.instagram.com/gonzalo_code/
 [linkedin]: https://www.linkedin.com/in/gonzalo-lopez-2050/
--- [portfolio]: https://arsentieva.github.io/profile/
+<!-- [portfolio]: https://arsentieva.github.io/profile/ -->
