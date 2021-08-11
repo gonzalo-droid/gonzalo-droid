@@ -58,8 +58,12 @@
 &nbsp;
 [<img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />][tech_tools_anchor]
 &nbsp;
-
 [<img src="https://img.shields.io/badge/Laravel-282C34?logo=laravel&logoColor=FF2D20" alt="Laravel logo" title="Laravel" height="25" />][tech_tools_anchor]
+&nbsp;
+
+[<img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=3776AB" alt="python logo" title="python" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/PHP-282C34?logo=php&logoColor=777BB4" alt="php logo" title="php" height="25" />][tech_tools_anchor]
 &nbsp;
 ### Mobile
 [<img src="https://img.shields.io/badge/Android-282C34?logo=android&logoColor=3DDC84" alt="Android logo" title="Android" height="25" />][tech_tools_anchor]
