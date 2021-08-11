@@ -1,12 +1,12 @@
 
 
  <!-- <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" /> -->
-# Example text {style=text-align:center}
-<p align="center"> 
-  <h2>Hello World, I'm Gonzalo  👋</h2>
-</p>
+
 <div align="center">
-  my text here.
+
+# Example text {style=text-align:center}
+
+  <h2>Hello World, I'm Gonzalo  👋</h2>
 </div>
 
 <p align="center">
