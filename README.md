@@ -1,22 +1,17 @@
-# Hello World, I'm Gonzalo  👋
+
 
  <!-- <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" /> -->
 
+<p align="center"> 
+  <h2>Hello World, I'm Gonzalo  👋</h2>
+</p>
 
-## I'm a Developer!!
-<!-- - ✍ You can find my projects here [portfolio] -->
-- 🌱 I’m currently learning Flutter and Kotlin
-- 👯 I’m looking to collaborate on open source
-<!-- - 💬 Ask me about ... Anything -->
-<!-- - ⚡ Fun fact: I speak 2 languages ( English, Spanish ) -->
-
-<h3 align="left"> 🔍 Connect with me:</h3>
-<p align="left">
-  <a href="https://twitter.com/alvaro__barrera" target="blank"
+<p align="center">
+  <a href="https://twitter.com/gonzalo_code" target="blank"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/22064237dce9d9052582c108ace3c161b646dfd9/src/images/icons/Social/twitter.svg"
-      alt="alvaro__barrera"
+      alt="gonzalo_code"
       height="30"
       width="40"
   /></a>
@@ -45,6 +40,15 @@
       width="40"
   /></a>
 </p>
+
+## I'm a Developer!!
+<!-- - ✍ You can find my projects here [portfolio] -->
+- 🌱 I’m currently learning Flutter and Kotlin
+- 👯 I’m looking to collaborate on open source
+<!-- - 💬 Ask me about ... Anything -->
+<!-- - ⚡ Fun fact: I speak 2 languages ( English, Spanish ) -->
+
+
 
 
 <br />
