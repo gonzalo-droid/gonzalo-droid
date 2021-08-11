@@ -3,9 +3,6 @@
  <!-- <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" /> -->
 
 <div align="center">
-
-# Hello World, I'm Gonzalo  👋 {style=text-align:center}
-
   <h1>Hello World, I'm Gonzalo  👋</h1>
 </div>
 
@@ -43,6 +40,7 @@
       width="30"
   /></a>
 </p>
+</br>
 
 ## I'm a Developer!!
 <!-- - ✍ You can find my projects here [portfolio] -->
@@ -59,6 +57,12 @@
 ## 🛠  Technologies and tools
 ### Web
 
+<p style="diplay:inline">
+<img style="display:inline-block" src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript" title="JavaScript" height="25" />
+
+<img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5" title="HTML5" height="25" />
+
+</p>
 <img style="display:inline-block" src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript" title="JavaScript" height="25" />
 
 <img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5" title="HTML5" height="25" />
