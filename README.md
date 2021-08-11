@@ -4,9 +4,9 @@
 
 <div align="center">
 
-# Example text {style=text-align:center}
+# Hello World, I'm Gonzalo  👋 {style=text-align:center}
 
-  <h2>Hello World, I'm Gonzalo  👋</h2>
+  <h1>Hello World, I'm Gonzalo  👋</h1>
 </div>
 
 <p align="center">
