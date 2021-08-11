@@ -1,4 +1,6 @@
 
+<!-- Img obtenida: https://simpleicons.org/?q=Postman -->
+<!-- Nombre de url : https://github.com/simple-icons/simple-icons/edit/develop/slugs.md -->
 
  <!-- <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" /> -->
 
@@ -58,7 +60,7 @@
 ### Web
 
 <p style="diplay:inline">
-<img style="display:inline-block" src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript" title="JavaScript" height="25" />
+[<img style="display:inline-block" src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript" title="JavaScript" height="25" />][tech]
 &nbsp;
 <img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5" title="HTML5" height="25" />
 &nbsp;
@@ -116,3 +118,4 @@
 
 
 
+[tech]:
