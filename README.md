@@ -59,14 +59,15 @@
 
 <p style="diplay:inline">
 <img style="display:inline-block" src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript" title="JavaScript" height="25" />
-
+&nbsp;
 <img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5" title="HTML5" height="25" />
+&nbsp;
 <img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3" title="CSS3" height="25" />
-
+&nbsp;
 <img src="https://img.shields.io/badge/Laravel-282C34?logo=laravel&logoColor=FF2D20" alt="Laravel" title="Laravel" height="25" />
-
+&nbsp;
 <img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=3776AB" alt="python" title="python" height="25" />
-
+&nbsp;
 <img src="https://img.shields.io/badge/PHP-282C34?logo=php&logoColor=777BB4" alt="php" title="php" height="25" />
 
 </p>
@@ -94,11 +95,8 @@
 </p>
 
 
-
-
-
-
-# Tools
+### Tools
+<p style="diplay:inline">
 <img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" />
 &nbsp;
 <img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />
@@ -107,6 +105,12 @@
 &nbsp;
 <img src="https://img.shields.io/badge/Postman-282C34?logo=postman&logoColor=FF6C37" alt="postman" title="postman" height="25" />
 &nbsp;
+
+
+</p>
+
+
+
 
 
 
