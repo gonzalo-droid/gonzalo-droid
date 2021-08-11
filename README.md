@@ -50,7 +50,7 @@
 <br />
 
 ## 🛠  Technologies and tools
-# Web
+### Web
 
 [<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />][tech_tools_anchor]
 &nbsp;
@@ -58,12 +58,15 @@
 &nbsp;
 [<img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />][tech_tools_anchor]
 &nbsp;
-# Mobile
+
+[<img src="https://img.shields.io/badge/Laravel-282C34?logo=laravel&logoColor=FF2D20" alt="Laravel logo" title="Laravel" height="25" />][tech_tools_anchor]
+&nbsp;
+### Mobile
 [<img src="https://img.shields.io/badge/Android-282C34?logo=android&logoColor=3DDC84" alt="Android logo" title="Android" height="25" />][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/Flutter-282C34?logo=flutter&logoColor=02569B" alt="Flutter logo" title="Flutter" height="25" />][learning_next_anchor]
 &nbsp;
-# Database
+### Database
 [<img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" />][learning_now_anchor]
 &nbsp;
 
@@ -73,31 +76,6 @@
 &nbsp;
 [<img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />][tech_tools_anchor]
 &nbsp;
-
-
-
-
-<a href="https://golang.org/" title="Golang"><img src="icons/golang.png" /></a>
-<a href="https://www.rust-lang.org/" title="Rust"><img src="icons/rust.png" /></a>
-<a href="https://dart.dev/" title="Dart"><img src="icons/dartlang.png" /></a>
-<a href="https://flutter.dev/" title="Flutter"><img src="icons/flutter.png" /></a>
-
-<a href="https://www.drupal.org/" title="Drupal"><img src="icons/drupal.png" /></a>
-<a href="https://www.php.net/" title="PHP"><img src="icons/php.png" /></a>
-<a href="https://getcomposer.org/" title="Composer"><img src="icons/composer.png" /></a>
-<a href="https://www.python.org/" title="Python"><img src="icons/python.png" /></a>
-<a href="https://git-scm.com/" title="Git"><img src="icons/git.png" /></a>
-<a href="https://www.docker.com/" title="Docker"><img src="icons/docker.png" /></a>
-<a href="https://github.com/" title="GitHub"><img src="icons/github.png" /></a>
-<a href="https://gitlab.com/" title="GitLab"><img src="icons/gitlab.png" /></a>
-<a href="https://www.terraform.io/" title="Terraform"><img src="icons/terraform.png" /></a>
-<a href="https://www.ansible.com/" title="Ansible"><img src="icons/ansible.png" /></a>
-<a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript"><img src="icons/javascript.png" /></a>
-<a href="https://www.typescriptlang.org/" title="TypeScript"><img src="icons/typescript.png" /></a>
-<a href="https://www.mysql.com/" title="MySQL"><img src="icons/mysql.png" /></a>
-<a href="https://mariadb.org/" title="MariaDB"><img src="icons/mariadb.png" /></a>
-<a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="icons/vscode.png" /></a>
-<a href="https://www.jetbrains.com/phpstorm/" title="PHPStorm"><img src="icons/phpstorm.png" /></a>
 
 
 
