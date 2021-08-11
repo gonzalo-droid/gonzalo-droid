@@ -44,10 +44,12 @@
 </p>
 </br>
 
-## I'm a Developer!!
+## I'm a Developer from Perú!!
 <!-- - ✍ You can find my projects here [portfolio] -->
-- 🌱 I’m currently learning Flutter and Kotlin
-- 👯 I’m looking to collaborate on open source
+
+- 🌱 I'm currently improving my skills as an android developer. 
+- ☁️ I'm interested in learning cloud technologies 
+- 🚀 The technology is the next step of science fiction
 <!-- - 💬 Ask me about ... Anything -->
 <!-- - ⚡ Fun fact: I speak 2 languages ( English, Spanish ) -->
 
