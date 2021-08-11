@@ -52,7 +52,7 @@
 ## 🛠  Technologies and tools
 ### Web
 
-<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript" title="JavaScript" height="25" />
+<img style="display:inline-block" src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript" title="JavaScript" height="25" />
 
 <img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5" title="HTML5" height="25" />
 
