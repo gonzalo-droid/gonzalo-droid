@@ -59,6 +59,9 @@
 ## 🛠  Technologies and tools
 ### Web
 
+[<img style="display:inline-block" src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript" title="JavaScript" height="25" />][tech]
+&nbsp;
+
 <p style="diplay:inline">
 [<img style="display:inline-block" src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript" title="JavaScript" height="25" />][tech]
 &nbsp;
@@ -110,10 +113,6 @@
 
 
 </p>
-
-
-
-
 
 
 
