@@ -44,7 +44,7 @@
 </p>
 </br>
 
-## I'm a Developer from Perú!!
+## I'm a Developer !
 <!-- - ✍ You can find my projects here [portfolio] -->
 
 - 🌱 I'm currently improving my skills as an android developer. 
