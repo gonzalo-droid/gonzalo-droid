@@ -1,10 +1,13 @@
 
 
  <!-- <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" /> -->
-
+# Example text {style=text-align:center}
 <p align="center"> 
   <h2>Hello World, I'm Gonzalo  👋</h2>
 </p>
+<div align="center">
+  my text here.
+</div>
 
 <p align="center">
   <a href="https://twitter.com/gonzalo_code" target="blank"
@@ -12,32 +15,32 @@
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/22064237dce9d9052582c108ace3c161b646dfd9/src/images/icons/Social/twitter.svg"
       alt="gonzalo_code"
-      height="30"
-      width="40"
+      height="20"
+      width="30"
   /></a>
   <a href="https://www.linkedin.com/in/gonzalo-lopez-2050/" target="blank"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/22064237dce9d9052582c108ace3c161b646dfd9/src/images/icons/Social/linked-in-alt.svg"
       alt="https://www.linkedin.com/in/gonzalo-lopez-2050/"
-      height="30"
-      width="40"
+      height="20"
+      width="30"
   /></a>
   <a href="https://www.facebook.com/gonzalo.lopezguerrero.5/" target="blank"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/22064237dce9d9052582c108ace3c161b646dfd9/src/images/icons/Social/facebook.svg"
       alt="https://www.facebook.com/gonzalo.lopezguerrero.5/"
-      height="30"
-      width="40"
+      height="20"
+      width="30"
   /></a>
   <a href="https://www.instagram.com/gonzalo_code/" target="blank"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/22064237dce9d9052582c108ace3c161b646dfd9/src/images/icons/Social/instagram.svg"
       alt="https://www.instagram.com/gonzalo_code/"
-      height="30"
-      width="40"
+      height="20"
+      width="30"
   /></a>
 </p>
 
