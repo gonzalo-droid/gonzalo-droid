@@ -44,7 +44,7 @@
 </p>
 </br>
 
-## I'm a Developer !
+## I'm a Mobile Developer !
 <!-- - ✍ You can find my projects here [portfolio] -->
 
 - 🌱 I'm currently improving my skills as an android developer. 
@@ -59,6 +59,19 @@
 <br />
 
 ## 🛠  Technologies and tools
+
+
+### Mobile
+[<img src="https://img.shields.io/badge/Android-282C34?logo=android&logoColor=3DDC84" alt="Android" title="Android" height="25" />][tech_tool]
+&nbsp;
+[<img src="https://img.shields.io/badge/Flutter-282C34?logo=flutter&logoColor=02569B" alt="Flutter" title="Flutter" height="25" />][tech_tool]
+&nbsp;
+[<img src="https://img.shields.io/badge/Kotlin-282C34?logo=kotlin&logoColor=0095D5" alt="kotlin" title="kotlin" height="25" />][tech_tool]
+&nbsp;
+[<img src="https://img.shields.io/badge/Java-282C34?logo=java&logoColor=0095D5" alt="java" title="java" height="25" />][tech_tool]
+&nbsp;
+
+
 ### Web
 [<img style="display:inline-block" src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript" title="JavaScript" height="25" />][tech_tool]
 &nbsp;
@@ -73,15 +86,6 @@
 [<img src="https://img.shields.io/badge/PHP-282C34?logo=php&logoColor=777BB4" alt="php" title="php" height="25" />][tech_tool]
 
 
-### Mobile
-[<img src="https://img.shields.io/badge/Android-282C34?logo=android&logoColor=3DDC84" alt="Android" title="Android" height="25" />][tech_tool]
-&nbsp;
-[<img src="https://img.shields.io/badge/Flutter-282C34?logo=flutter&logoColor=02569B" alt="Flutter" title="Flutter" height="25" />][tech_tool]
-&nbsp;
-[<img src="https://img.shields.io/badge/Kotlin-282C34?logo=kotlin&logoColor=0095D5" alt="kotlin" title="kotlin" height="25" />][tech_tool]
-&nbsp;
-[<img src="https://img.shields.io/badge/Java-282C34?logo=java&logoColor=0095D5" alt="java" title="java" height="25" />][tech_tool]
-&nbsp;
 
 ### Database
 [<img src="https://img.shields.io/badge/MySQL-282C34?logo=mysql&logoColor=4479A1" alt="mysql" title="mysql" height="25" />][tech_tool]
