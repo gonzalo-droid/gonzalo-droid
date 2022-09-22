@@ -17,7 +17,7 @@
       height="20"
       width="30"
   /></a>
-  <a href="https://www.linkedin.com/in/gonzalo-lopez-2050/" target="blank"
+  <a href="https://www.linkedin.com/in/gonzalo-lozg/" target="blank"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/22064237dce9d9052582c108ace3c161b646dfd9/src/images/icons/Social/linked-in-alt.svg"
