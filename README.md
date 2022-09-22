@@ -9,7 +9,7 @@
 </div>
 
 <p align="center">
-  <a href="https://twitter.com/gonzalo_code" target="blank"
+  <a href="https://twitter.com/gonzalo_lozg" target="blank"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/22064237dce9d9052582c108ace3c161b646dfd9/src/images/icons/Social/twitter.svg"
