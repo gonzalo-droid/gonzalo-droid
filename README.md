@@ -1,8 +1,3 @@
----
-layout: default
-title: My Portfolio
----
-
 <!-- Img obtenida: https://simpleicons.org/?q=Postman -->
 <!-- Nombre de url : https://github.com/simple-icons/simple-icons/edit/develop/slugs.md -->
 
@@ -28,6 +23,15 @@ title: My Portfolio
       height="20"
       width="30"
   /></a>
+</p>
+<p align="center">
+<a href="https://www.gonzalo-lozg.me/" target="blank">
+<img 
+src="https://img.shields.io/badge/Portfolio 👨🏽‍💻-282C34?logo=www&logoColor=#3DDC84"
+alt="https://www.gonzalo-lozg.me/"
+height="30"
+title="Portfolio"
+/></a>
 </p>
 </br>
 
