@@ -1,7 +1,3 @@
-<!-- Img obtenida: https://simpleicons.org/?q=Postman -->
-<!-- Nombre de url : https://github.com/simple-icons/simple-icons/edit/develop/slugs.md -->
-
-
 <div align="center">
   <h1>Hola 👋, Soy Gonzalo</h1>
 </div>
@@ -18,9 +14,10 @@
 
 - 📲 Mobile developer (Kotlin & Swift)
 - 🎥 Desarrollo aplicaciones y enfrento retos, compartiéndolos con la comunidad.
- [Youtube](https://youtube.com/GonzaloDroid2050?sub_confirmation=1) 
- [Instagram](https://www.instagram.com/gonzalo.lozg/) 
- [Tiktok](https://www.tiktok.com/@gonzalodroid) 
+  -- [Youtube](https://youtube.com/GonzaloDroid2050?sub_confirmation=1)
+  -- [Instagram](https://www.instagram.com/gonzalo.lozg/) 
+  -- [Tiktok](https://www.tiktok.com/@gonzalodroid)
+  -- [Linkedin](https://www.linkedin.com/in/gonzalo-lozg/)
 - Agregango más apps a mi [Portafolio](https://gonzalo-lozg.me/)
 
 ### ⚙️ &nbsp;GitHub Analytics
