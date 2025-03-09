@@ -14,14 +14,12 @@
 
 - 📲 Mobile developer (Kotlin & Swift)
 - 🎥 Desarrollo aplicaciones y enfrento retos, compartiéndolos con la comunidad.
-<br>
-  -- [Youtube](https://youtube.com/GonzaloDroid2050?sub_confirmation=1)
-<br>
-  -- [Instagram](https://www.instagram.com/gonzalo.lozg/) 
-<br>
-  -- [Tiktok](https://www.tiktok.com/@gonzalodroid)
-<br>
-  -- [Linkedin](https://www.linkedin.com/in/gonzalo-lozg/)
+
+- [Youtube](https://youtube.com/GonzaloDroid2050?sub_confirmation=1)
+- [Instagram](https://www.instagram.com/gonzalo.lozg/)
+- [Tiktok](https://www.tiktok.com/@gonzalodroid)
+- [Linkedin](https://www.linkedin.com/in/gonzalo-lozg/)
+
 - Agregango más apps a mi [Portafolio](https://gonzalo-lozg.me/)
 
 ### ⚙️ &nbsp;GitHub Analytics
