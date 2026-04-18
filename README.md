@@ -25,3 +25,38 @@
 - 🚀 Continuous learner, always exploring new tech applications
 - 🎥 I build apps and face challenges, sharing everything with the community
 - 🌐 Check out my [Portfolio](https://gonzalo-lozg.me/)
+
+---
+
+### 🛠 Tech Stack
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <b>📱 Android</b><br/><br/>
+      <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Hilt-2196F3?style=flat-square&logo=android&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Room-FF6F00?style=flat-square&logo=android&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Retrofit-48B983?style=flat-square&logo=android&logoColor=white"/>
+    </td>
+    <td valign="top" width="50%">
+      <b>🍎 iOS</b><br/><br/>
+      <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white"/>
+      <img src="https://img.shields.io/badge/SwiftUI-0071E3?style=flat-square&logo=swift&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <b>🌐 Multiplatform</b><br/><br/>
+      <img src="https://img.shields.io/badge/KMP-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+    </td>
+    <td valign="top">
+      <b>🔧 Tools & Services</b><br/><br/>
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+      <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
+    </td>
+  </tr>
+</table>
