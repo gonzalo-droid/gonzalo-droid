@@ -32,31 +32,31 @@
 
 <table>
   <tr>
-    <td valign="top" width="50%">
-      <b>📱 Android</b><br/><br/>
+    <td valign="top" width="100%">
+      <b>📱 Mobile</b><br/><br/>
+      <img src="https://img.shields.io/badge/MVP-7F52FF?style=flat-square&logo=mvvm&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Clean Architecture-7F52FF?style=flat-square&logo=mvvm&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MVVM-02569B?style=flat-square&logo=mvvm&logoColor=white"/>
       <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
       <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white"/>
       <img src="https://img.shields.io/badge/Hilt-2196F3?style=flat-square&logo=android&logoColor=white"/>
       <img src="https://img.shields.io/badge/Room-FF6F00?style=flat-square&logo=android&logoColor=white"/>
       <img src="https://img.shields.io/badge/Retrofit-48B983?style=flat-square&logo=android&logoColor=white"/>
-    </td>
-    <td valign="top" width="50%">
-      <b>🍎 iOS</b><br/><br/>
       <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white"/>
       <img src="https://img.shields.io/badge/SwiftUI-0071E3?style=flat-square&logo=swift&logoColor=white"/>
+      <img src="https://img.shields.io/badge/SwiftData-0A71D4?style=flat-square&logo=swift&logoColor=white"/>
+      <img src="https://img.shields.io/badge/KMP-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <b>🌐 Multiplatform</b><br/><br/>
-      <img src="https://img.shields.io/badge/KMP-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
-    </td>
-    <td valign="top">
       <b>🔧 Tools & Services</b><br/><br/>
       <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+      <img src="https://img.shields.io/badge/Supabase-000000?style=flat-square&logo=supabase&logoColor=white"/>
       <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"/>
       <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=claude&logoColor=white"/>
     </td>
   </tr>
 </table>
@@ -85,7 +85,7 @@
           <img src="https://img.shields.io/badge/App_Store-0071E3?style=flat-square&logo=app-store&logoColor=white"/>
         </a>
         <a href="https://quote-anime-web.vercel.app/">
-          <img src="https://img.shields.io/badge/Web-000000?style=flat-square&logo=vercel&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Landing [Click]-000000?style=flat-square&logo=vercel&logoColor=white"/> 
         </a>
       </p>
       <img src="assets/app_quote_anime.png" width="100%"/>
