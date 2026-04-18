@@ -91,3 +91,23 @@
       <img src="assets/app_quote_anime.png" width="100%"/>
     </td>
   </tr>
+  <tr>
+    <td>
+      <h3>AutoTest Licencia</h3>
+      <p>Practice for your driving license exam. Review an updated and categorized question bank, take simulation tests, and track your results.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Hilt-2196F3?style=flat-square&logo=android&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+        <img src="https://img.shields.io/badge/MVVM-4CAF50?style=flat-square"/>
+      </p>
+      <p>
+        <a href="https://play.google.com/store/apps/details?id=com.gondroid.mtcquiz">
+          <img src="https://img.shields.io/badge/Play_Store-414141?style=flat-square&logo=google-play&logoColor=white"/>
+        </a>
+      </p>
+      <img src="assets/app_autotest.jpg" width="100%"/>
+    </td>
+  </tr>
+</table>
