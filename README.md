@@ -25,6 +25,8 @@
 - 🚀 Continuous learner, always exploring new tech applications
 - 🎥 I build apps and face challenges, sharing everything with the community
 - 🌐 Check out my [Portfolio](https://gonzalo-lozg.me/)
+- 🌐 Selling manga and collectible figures [NEKO MANGA CIX](https://www.instagram.com/neko.manga.cix/)
+- Anime Instagram to reach 100k downloads 📸 [QuoteAnime](https://www.instagram.com/animequoteapp/)
 
 ---
 
