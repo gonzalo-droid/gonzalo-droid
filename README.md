@@ -120,6 +120,6 @@
   <a href="https://github.com/gonzalo-droid">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gonzalo-droid&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gonzalo-droid&layout=compact&langs_count=8&theme=algolia"/>
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=gonzalo-droid&theme=algolia"/>
+    <img height="180em" src="https://streak-stats.demolab.com/?user=gonzalo-droid&theme=algolia"/>
   </a>
 </p>
