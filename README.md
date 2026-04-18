@@ -14,3 +14,14 @@
   [![GitHub followers](https://img.shields.io/github/followers/gonzalo-droid?style=social)](https://github.com/gonzalo-droid)
   [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCPjql8JlN5kw6hU2U_tngaw?style=social)](https://youtube.com/GonzaloDroid2050?sub_confirmation=1)
 </div>
+
+---
+
+### 👤 About Me
+
+- 📲 Android & iOS developer with Kotlin and Swift
+- 🌱 Passionate about sharing my journey with the community, constantly learning
+- ☁️ AI is transforming the world — I love exploring its potential in mobile solutions
+- 🚀 Continuous learner, always exploring new tech applications
+- 🎥 I build apps and face challenges, sharing everything with the community
+- 🌐 Check out my [Portfolio](https://gonzalo-lozg.me/)
