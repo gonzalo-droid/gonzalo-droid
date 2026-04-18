@@ -60,3 +60,34 @@
     </td>
   </tr>
 </table>
+
+---
+
+### 📱 My Apps
+
+<table>
+  <tr>
+    <td>
+      <h3>Quote Anime | Frases Anime</h3>
+      <p>Discover and share inspiring quotes from your favorite anime. Browse by category, save your favorites, and receive daily quotes via notifications or your home screen widget.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white"/>
+        <img src="https://img.shields.io/badge/SwiftUI-0071E3?style=flat-square&logo=swift&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+        <img src="https://img.shields.io/badge/MVVM_Clean_Arch-4CAF50?style=flat-square"/>
+      </p>
+      <p>
+        <a href="https://play.google.com/store/apps/details?id=com.gondroid.quoteanime">
+          <img src="https://img.shields.io/badge/Play_Store-414141?style=flat-square&logo=google-play&logoColor=white"/>
+        </a>
+        <a href="https://apps.apple.com/pe/app/quoteanime-frases-de-anime/id6762100338?l=en-GB">
+          <img src="https://img.shields.io/badge/App_Store-0071E3?style=flat-square&logo=app-store&logoColor=white"/>
+        </a>
+        <a href="https://quote-anime-web.vercel.app/">
+          <img src="https://img.shields.io/badge/Web-000000?style=flat-square&logo=vercel&logoColor=white"/>
+        </a>
+      </p>
+      <img src="assets/app_quote_anime.png" width="100%"/>
+    </td>
+  </tr>
