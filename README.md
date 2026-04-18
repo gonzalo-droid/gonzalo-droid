@@ -5,10 +5,10 @@
   <p>Mobile Developer · Android & iOS · Passionate about AI in mobile solutions</p>
 
   <p>
-    <a href="https://youtube.com/GonzaloDroid2050?sub_confirmation=1">📺 YouTube</a> &nbsp;|&nbsp;
-    <a href="https://www.instagram.com/gonzalo.lozg/">📸 Instagram</a> &nbsp;|&nbsp;
-    <a href="https://www.tiktok.com/@gonzalodroid">🎵 TikTok</a> &nbsp;|&nbsp;
-    <a href="https://gonzalo-lozg.me/">🌐 Portfolio</a>
+    <a href="https://youtube.com/GonzaloDroid2050?sub_confirmation=1" target="_blank">📺 YouTube</a> &nbsp;|&nbsp;
+    <a href="https://www.instagram.com/gonzalo.lozg/" target="_blank">📸 Instagram</a> &nbsp;|&nbsp;
+    <a href="https://www.tiktok.com/@gonzalodroid" target="_blank">🎵 TikTok</a> &nbsp;|&nbsp;
+    <a href="https://gonzalo-lozg.me/" target="_blank">🌐 Portfolio</a>
   </p>
 
   [![GitHub followers](https://img.shields.io/github/followers/gonzalo-droid?style=social)](https://github.com/gonzalo-droid)
@@ -24,9 +24,9 @@
 - ☁️ AI is transforming the world — I love exploring its potential in mobile solutions
 - 🚀 Continuous learner, always exploring new tech applications
 - 🎥 I build apps and face challenges, sharing everything with the community
-- 🌐 Check out my [Portfolio](https://gonzalo-lozg.me/)
-- 🌐 Selling manga and collectible figures [NEKO MANGA CIX](https://www.instagram.com/neko.manga.cix/)
-- Anime Instagram to reach 100k downloads 📸 [QuoteAnime](https://www.instagram.com/animequoteapp/)
+- 🌐 Check out my <a href="https://gonzalo-lozg.me/" target="_blank">Portfolio</a>
+- 🌐 Selling manga and collectible figures <a href="https://www.instagram.com/neko.manga.cix/" target="_blank">NEKO MANGA CIX</a>
+- Anime Instagram to reach 100k downloads 📸 <a href="https://www.instagram.com/animequoteapp/" target="_blank">QuoteAnime</a>
 
 ---
 
@@ -80,13 +80,13 @@
         <img src="https://img.shields.io/badge/MVVM_Clean_Arch-4CAF50?style=flat-square"/>
       </p>
       <p>
-        <a href="https://play.google.com/store/apps/details?id=com.gondroid.quoteanime">
+        <a href="https://play.google.com/store/apps/details?id=com.gondroid.quoteanime" target="_blank">
           <img src="https://img.shields.io/badge/Play_Store-414141?style=flat-square&logo=google-play&logoColor=white"/>
         </a>
-        <a href="https://apps.apple.com/pe/app/quoteanime-frases-de-anime/id6762100338?l=en-GB">
+        <a href="https://apps.apple.com/pe/app/quoteanime-frases-de-anime/id6762100338?l=en-GB" target="_blank">
           <img src="https://img.shields.io/badge/App_Store-0071E3?style=flat-square&logo=app-store&logoColor=white"/>
         </a>
-        <a href="https://quote-anime-web.vercel.app/">
+        <a href="https://quote-anime-web.vercel.app/" target="_blank">
           <img src="https://img.shields.io/badge/Landing [Click]-000000?style=flat-square&logo=vercel&logoColor=white"/> 
         </a>
       </p>
@@ -105,7 +105,7 @@
         <img src="https://img.shields.io/badge/MVVM-4CAF50?style=flat-square"/>
       </p>
       <p>
-        <a href="https://play.google.com/store/apps/details?id=com.gondroid.mtcquiz">
+        <a href="https://play.google.com/store/apps/details?id=com.gondroid.mtcquiz" target="_blank">
           <img src="https://img.shields.io/badge/Play_Store-414141?style=flat-square&logo=google-play&logoColor=white"/>
         </a>
       </p>
