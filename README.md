@@ -1,33 +1,16 @@
-<!-- Img obtenida: https://simpleicons.org/?q=Postman -->
-<!-- Nombre de url : https://github.com/simple-icons/simple-icons/edit/develop/slugs.md -->
-
+<!-- Icons: https://simpleicons.org | Slugs: https://github.com/simple-icons/simple-icons/blob/develop/slugs.md -->
 
 <div align="center">
-  <h1>Hola 👋, Soy Gonzalo</h1>
+  <h1>Hi 👋, I'm Gonzalo</h1>
+  <p>Mobile Developer · Android & iOS · Passionate about AI in mobile solutions</p>
+
+  <p>
+    <a href="https://youtube.com/GonzaloDroid2050?sub_confirmation=1">📺 YouTube</a> &nbsp;|&nbsp;
+    <a href="https://www.instagram.com/gonzalo.lozg/">📸 Instagram</a> &nbsp;|&nbsp;
+    <a href="https://www.tiktok.com/@gonzalodroid">🎵 TikTok</a> &nbsp;|&nbsp;
+    <a href="https://gonzalo-lozg.me/">🌐 Portfolio</a>
+  </p>
+
+  [![GitHub followers](https://img.shields.io/github/followers/gonzalo-droid?style=social)](https://github.com/gonzalo-droid)
+  [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCPjql8JlN5kw6hU2U_tngaw?style=social)](https://youtube.com/GonzaloDroid2050?sub_confirmation=1)
 </div>
-
-  [![GitHub followers](https://img.shields.io/github/followers/gonzalo-droid?style=social)](https://github.com/gonzalo-droid) [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCPjql8JlN5kw6hU2U_tngaw?style=social)](https://youtube.com/GonzaloDroid2050?sub_confirmation=1) 
-
-### Mobile Developer
-- 🌱 Desarrollador Android/iOS. Apasionado por compartir mi camino como programador con la comunidad, aprendiendo constantemente y aportando conocimientos.
-- ☁️ La IA está transformando el mundo, y me emociona explorar su potencial en soluciones móviles.
-- 🚀 Aprendizaje continuo, siempre explorando nuevas aplicaciones de la tecnología.
-<br />
-
-### Sobre mi:
-
-- 📲 Mobile developer (Kotlin & Swift)
-- 🎥 Desarrollo aplicaciones y enfrento retos, compartiéndolos con la comunidad.
- [Youtube](https://youtube.com/GonzaloDroid2050?sub_confirmation=1) 
- [Instagram](https://www.instagram.com/gonzalo.lozg/) 
- [Tiktok](https://www.tiktok.com/@gonzalodroid) 
-- Agregango más apps a mi [Portafolio](https://gonzalo-lozg.me/)
-
-### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-<a href="https://github.com/gonzalo-droid">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gonzalo-droid&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gonzalo-droid&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
